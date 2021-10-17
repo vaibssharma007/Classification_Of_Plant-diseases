@@ -46,10 +46,7 @@ This process for building a model which can detect the disease assocaited with t
    <img src="./Assets/out2.png" alt="index3" height="300px"  width="450"/>
    </div>
 
-5. Various Model Architecture tried along with Learning Rate and Optimizer and various accuracy obtained with different models.
 
-  <img src="./Assets/models.png" alt="models" />
-  
  ## IO Screenshots:📷 <br>
 ### This is the home page of our website :-
  
