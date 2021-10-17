@@ -73,7 +73,7 @@ This process for building a model which can detect the disease assocaited with t
 
 ## Details about the model
 
-### The model will be able to detect `38` types of `diseases` of `14 Unique plants`
+### The model will be able to detect 38 types of diseases of 14 Unique plants
 
 - The detail list of plants and diseases can be seen in [List](Src)
 
