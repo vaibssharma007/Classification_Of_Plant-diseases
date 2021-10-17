@@ -1,11 +1,5 @@
 
 # Recognition of Plant Diseases by Leaf Image Classification 🌳
- 
- ## I/O Demo : 
-
-## <img src="./Assets/web.gif" alt="demo"/>
-
- </div>
 
 ## Description
 
@@ -21,7 +15,8 @@ The dataset used for training and evaluating the model:"https://www.kaggle.com/v
 
 ## Leaf Image Classification
 
-## <img src="./Assets/batch.png" alt="batch of image"/>
+##  ![1](https://user-images.githubusercontent.com/91024630/137633089-4a39a20a-93a6-4673-80f2-698a9ccbd7bd.png)
+
 
 This process for building a model which can detect the disease assocaited with the leaf image. The key points to be followed are:
 
@@ -54,6 +49,20 @@ This process for building a model which can detect the disease assocaited with t
 5. Various Model Architecture tried along with Learning Rate and Optimizer and various accuracy obtained with different models.
 
   <img src="./Assets/models.png" alt="models" />
+  
+ ## IO Screenshots:📷 <br>
+### This is the home page of our website :-
+ 
+  ![Screenshot (15)](https://user-images.githubusercontent.com/91024630/137633110-4d73f6b5-2fd4-40c1-a09a-787f1985a9b6.png)
+   
+ ![Screenshot (18)](https://user-images.githubusercontent.com/91024630/137633122-dad532a8-7b13-4757-a786-c5b8f452add0.png)
+ 
+
+### Upload the image of a leaf :-
+![Screenshot (16)](https://user-images.githubusercontent.com/91024630/137633124-add39f33-9d5b-4955-86aa-2e27cae43e47.png)
+
+### These are the predicted result after uploading :-
+ ![Screenshot (17)](https://user-images.githubusercontent.com/91024630/137633129-9ac60b86-d3c1-4072-94e0-73715940e945.png)
 
 
 
