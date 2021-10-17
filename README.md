@@ -59,7 +59,7 @@ This process for building a model which can detect the disease assocaited with t
 
 ## Flow chart :
 
-![flow chart](https://user-images.githubusercontent.com/91031609/134039890-88fe27cd-f231-4300-8eba-cf379daf94e7.PNG)
+![flow_chart](https://user-images.githubusercontent.com/91024630/137632960-2655f040-2d7f-4439-80a2-dbaa21fd5040.jpeg)
 
 
 ## Details about the model
